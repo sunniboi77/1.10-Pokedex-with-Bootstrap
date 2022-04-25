@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Poppins', sans-serif;
+ 
+}
+
+.navbar {
+  background-color: #17a2b8;  
+}
+
+.nav-item {
+  margin-left:25px;
+  font-size: 25px;
+  list-style-type: none;
+   
+}
+
+/* .navbar-nav{
+  background-color: white;
+  color:azure
+} */
+
+.nav-link{
+  color:white;
+}
+
+
+.extra-top {
+  margin-top: 60px;
+}
+
+.pokedex-custom-font {
+  font-family: 'Ranchers', cursive;
+}
+
+.list-group-item {
+  border: none;
+  background-color: white;
+  margin: 0;
+  padding: 10px 0;
+}
+
+.modal-header {
+  background-color: #17a2b8;
+}
+
+.modal-title {
+  color: #fff;
+  font-family: 'Ranchers', cursive;
+}
