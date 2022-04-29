@@ -37,11 +37,21 @@ body {
   font-family: 'Ranchers', cursive;
 }
 
+.pokemon-list {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  grid-row-gap: 20px;
+  align-items: center;
+}
+
 .list-group-item {
   border: none;
-  background-color: white;
-  margin: 0;
+  background-color: #87220b;
+  margin: 10; 
   padding: 10px 0;
+ 
 }
 
 .modal-header {

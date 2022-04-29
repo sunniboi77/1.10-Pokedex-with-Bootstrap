@@ -12,4 +12,11 @@ APIs used: pokeapi
 
 Comment : Pokedex Types not printed properly on the Bootstrap modal. 
 
+1.11 Update
+Date on 29/April/2022
+
+Minimized style and js script file
+Moved into JS directory
+Formatted as well 
+
 
